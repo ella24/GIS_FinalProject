@@ -1,0 +1,19 @@
+Date,Beach ID,Beach Name,Latitude,Longitude,Sampling Route,Sampling Type,Enterococcus_colonies,"Temperature
+(°C)",pH ,Observations,Year,Month
+2017-11-27,RW-7,Balneario Punta Guilarte,17.9620417,-66.04,Route 2: Arroyo - Luquillo,Routine,121.0,28.1,8.05,,2017,11
+2017-11-27,RW-30,Playa Guayanés,18.062694399999998,-65.8191944,Route 2: Arroyo - Luquillo,Routine,408.0,28.7,8.04,,2017,11
+2017-11-27,RW-4,Balneario Punta Santiago,18.1584139,-65.7551861,Route 2: Arroyo - Luquillo,Routine,74.0,28.4,8.02,,2017,11
+2017-11-27,RW-31,Tropical Beach,18.186927800000003,-65.7259667,Route 2: Arroyo - Luquillo,Routine,368.0,29.3,8.04,,2017,11
+2017-11-27,RW-2,Balneario Seven Seas,18.369266699999997,-65.6360722,Route 2: Arroyo - Luquillo,Routine,98.0,28.5,8.11,,2017,11
+2017-11-29,RW-38,Muelle de Arecibo,18.4792583,-66.7004667,Route: 6: Arecibo – Vega Alta ,Routine,97.0,26.7,8.29,,2017,11
+2017-12-04,RW-30,Playa Guayanés ,18.062694399999998,-65.8191944,Route 2: Arroyo - Luquillo,RE-sampling,109.0,26.5,RE-sampling,,2017,12
+2017-12-04,RW-31,Tropical Beach,18.186927800000003,-65.7259667,Route 2: Arroyo - Luquillo,RE-sampling,546.0,27.5,RE-sampling,,2017,12
+2017-12-04,RW-38,Muelle de Arecibo,18.4792583,-66.7004667,Route: 6: Arecibo – Vega Alta ,RE-sampling,3448.0,27,RE-sampling,,2017,12
+2017-12-12,RW-31,Tropical Beach,18.186927800000003,-65.7259667,Route 2: Arroyo - Luquillo,Routine,109.0,28.3,8.15,,2017,12
+2017-12-11,RW-28,Playa El Alambique,18.444091699999998,-66.02215,Route 1: Dorado - Loíza,Routine,82.0,28,8.17,,2017,12
+2017-12-12,RW-38,Muelle de Arecibo,18.4792583,-66.7004667,Route: 6: Arecibo – Vega Alta ,Routine,173.0,26.3,8.22,,2017,12
+2017-12-26,RW-18,Balneario Manuel “Nolo” Morales or Sardinera,18.4746944,-66.2808917,Route 1: Dorado - Loíza,Routine,72.0,25.1,8.4,,2017,12
+2017-12-27,RW-6,Balneario de Patillas,17.973975,-65.9889806,Route 2: Arroyo - Luquillo,Routine,288.0,25,7.97,,2017,12
+2017-12-27,RW-30,Playa Guayanés,18.062694399999998,-65.8191944,Route 2: Arroyo - Luquillo,Routine,218.0,26.2,8.03,,2017,12
+2017-12-27,RW-4,Balneario Punta Santiago,18.1584139,-65.7551861,Route 2: Arroyo - Luquillo,Routine,160.0,26.7,8.08,,2017,12
+2017-12-27,RW-31,Tropical Beach,18.186927800000003,-65.7259667,Route 2: Arroyo - Luquillo,Routine,256.0,26.5,8.09/8.09,,2017,12

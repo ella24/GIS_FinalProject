@@ -1,0 +1,52 @@
+Date,Beach ID,Beach Name,Latitude,Longitude,Sampling Route,Sampling Type,Enterococcus_colonies,"Temperature
+(°C)",pH ,Observations,Year,Month
+2016-11-21,RW-23,Balneario de Puerto Nuevo,18.4913667,-66.3990444,Route: 6: Arecibo – Vega Alta ,RE-sampling,169.0,27.60,Bacteriological Re-sampling,,2016,11
+2016-11-21,RW-17,Balneario Cerro Gordo or Javier Calderón Nieves,18.4812500,-66.3406556,Route: 6: Arecibo – Vega Alta ,RE-sampling,146.0,27.50,Bacteriological Re-sampling,,2016,11
+2016-11-21,RW-18,Balneario Manuel “Nolo” Morales or Sardinera,18.4746944,-66.2808917,Route 1: Dorado - Loíza,RE-sampling,484.0,27.80,Bacteriological Re-sampling,,2016,11
+2016-11-21,RW-19,Balneario Punta Salinas,18.4716583,-66.1859944,Route 1: Dorado - Loíza,RE-sampling,243.0,27.80,Bacteriological Re-sampling,,2016,11
+2016-11-21,RW-21C,Balneario de Carolina,18.4459889,-66.0035722,Route 1: Dorado - Loíza,RE-sampling,187.0,27.80,Bacteriological Re-sampling,,2016,11
+2016-11-21,RW-14A,Playa Moja Casabe,17.9858100,-67.2145900,Route 4: Cabo Rojo,RE-sampling,108.0,26.00,Bacteriological Re-sampling,,2016,11
+2016-11-21,RW-38,Muelle de Arecibo,18.4792583,-66.7004667,Route: 6: Arecibo – Vega Alta ,RE-sampling,24196.0,26.00,Bacteriological Re-sampling,,2016,11
+2016-11-21,RW-30,Playa Guayanés,18.0626944,-65.8191944,Route 2: Arroyo - Luquillo,RE-sampling,1951.0,28.50,Bacteriological Re-sampling,,2016,11
+2016-11-21,RW-31,Tropical Beach,18.1869278,-65.7259667,Route 2: Arroyo - Luquillo,RE-sampling,417.0,29.30,Bacteriological Re-sampling,,2016,11
+2016-11-21,RW-2,Balneario Seven Seas,18.3692667,-65.6360722,Route 2: Arroyo - Luquillo,RE-sampling,754.0,29.00,Bacteriological Re-sampling,,2016,11
+2016-11-28,RW-15,Balneario de Añasco or Balneario Tres Hermanos,18.2879972,-67.1939222,Route 5: Añasco - Aguadilla,Routine,4611.0,27.30,8.15,,2016,11
+2016-11-28,RW-5,Balneario de Rincón,18.3409250,-67.2560056,Route 5: Añasco - Aguadilla,Routine,813.0,27.30,8.13,,2016,11
+2016-11-28,RW-22,Pico de Piedra,18.3843639,-67.2129889,Route 5: Añasco - Aguadilla,Routine,145.0,28.20,8.22,,2016,11
+2016-11-28,RW-23,Balneario de Puerto Nuevo,18.4913667,-66.3990444,Route: 6: Arecibo – Vega Alta ,Routine,1785.0,26.30,8.43,,2016,11
+2016-11-28,RW-17,Balneario Cerro Gordo or Javier Calderón Nieves,18.4812500,-66.3406556,Route: 6: Arecibo – Vega Alta ,Routine,171.0,26.40,8.52/8.51,,2016,11
+2016-11-29,RW-19,Balneario Punta Salinas,18.4716583,-66.1859944,Route 1: Dorado - Loíza,Routine,221.0,26.40,8.14,,2016,11
+2016-11-29,RW-25A,Playa Sixto Escobar,18.4667306,-66.0866667,Route 1: Dorado - Loíza,Routine,82.0,28.70,8.17,,2016,11
+2016-11-29,RW-7,Balneario Punta Guilarte,17.9620417,-66.0400000,Route 2: Arroyo - Luquillo,Routine,73.0,26.50,7.51,,2016,11
+2016-11-29,RW-30,Playa Guayanés,18.0626944,-65.8191944,Route 2: Arroyo - Luquillo,Routine,195.0,27.40,8.02,,2016,11
+2016-11-29,RW-31,Tropical Beach,18.1869278,-65.7259667,Route 2: Arroyo - Luquillo,Routine,465.0,27.90,8.06/8.04,,2016,11
+2016-11-29,RW-32,Playa Azul,18.3818667,-65.7184583,Route 2: Arroyo - Luquillo,Routine,2489.0,27.20,8.1,,2016,11
+2016-11-29,RW-1A,Balneario La Monserrate,18.3855917,-65.7294722,Route 2: Arroyo - Luquillo,Routine,102.0,28.10,8.03,,2016,11
+2016-12-05,RW-32,Playa Azul,18.3818667,-65.7184583,Route 2: Arroyo - Luquillo,RE-sampling,187.0,28.00,Bacteriological Re-sampling,,2016,12
+2016-12-05,RW-25A,Playa Sixto Escobar,18.4667306,-66.0866667,Route 1: Dorado - Loíza,RE-sampling,110.0,28.00,Bacteriological Re-sampling,,2016,12
+2016-12-12,RW-8,Playa Buyé ,18.0488722,-67.1986250,Route 4: Cabo Rojo,Routine,75.0,26.30,26.3,,2016,12
+2016-12-12,RW-10,Playa Santa,17.9377111,-66.9551972,Route 3: Lajas - Salinas,Routine,121.0,26.70,7.83,,2016,12
+2016-12-12,RW-9,Caña Gorda,17.9525306,-66.8845611,Route 3: Lajas - Salinas,Routine,341.0,26.90,7.89,,2016,12
+2016-12-12,RW-34,Playa Cabullón,17.9692833,-66.6027278,Route 3: Lajas - Salinas,Routine,337.0,26.50,7.94,,2016,12
+2016-12-13,RW-38,Muelle de Arecibo,18.4792583,-66.7004667,Route: 6: Arecibo – Vega Alta ,Routine,132.0,27.50,8.16,,2016,12
+2016-12-13,RW-17,Balneario Cerro Gordo or Javier Calderón Nieves,18.4812500,-66.3406556,Route: 6: Arecibo – Vega Alta ,Routine,528.0,27.00,8.06/8.05,,2016,12
+2016-12-13,RW-18,Balneario Manuel “Nolo” Morales or Sardinera,18.4746944,-66.2808917,Route 1: Dorado - Loíza,Routine,161.0,26.50,7.99,,2016,12
+2016-12-13,RW-29,Vacía Talega,18.4478583,-65.9062306,Route 1: Dorado - Loíza,Routine,96.0,27.40,8.23,,2016,12
+2016-12-13,RW-7,Balneario Punta Guilarte,17.9620417,-66.0400000,Route 2: Arroyo - Luquillo,Routine,120.0,26.60,8.07,,2016,12
+2016-12-13,RW-6,Balneario de Patillas,17.9739750,-65.9889806,Route 2: Arroyo - Luquillo,Routine,226.0,25.90,7.97,,2016,12
+2016-12-13,RW-4,Balneario Punta Santiago,18.1584139,-65.7551861,Route 2: Arroyo - Luquillo,Routine,243.0,26.30,8.05,,2016,12
+2016-12-13,RW-31,Tropical Beach,18.1869278,-65.7259667,Route 2: Arroyo - Luquillo,Routine,1624.0,26.70,8.05/8.05,,2016,12
+2016-12-13,RW-2,Balneario Seven Seas,18.3692667,-65.6360722,Route 2: Arroyo - Luquillo,Routine,86.0,25.60,8.11,,2016,12
+2016-12-19,RW-31,Tropical Beach,18.1869278,-65.7259667,Route 2: Arroyo - Luquillo,RE-sampling,384.0,25.50,Bacteriological Re-sampling,,2016,12
+2016-12-19,RW-2,Balneario Seven Seas,18.3692667,-65.6360722,Route 2: Arroyo - Luquillo,RE-sampling,84.0,26.50,Bacteriological Re-sampling,,2016,12
+2016-12-19,RW-23,Balneario de Puerto Nuevo,18.4913667,-66.3990444,Route: 6: Arecibo – Vega Alta ,RE-sampling,2282.0,27.20,Bacteriological Re-sampling,,2016,12
+2016-12-19,RW-18,Balneario Manuel “Nolo” Morales or Sardinera,18.4746944,-66.2808917,Route 1: Dorado - Loíza,RE-sampling,2105.0,26.90,Bacteriological Re-sampling,,2016,12
+2016-12-19,RW-29,Vacía Talega,18.4478583,-65.9062306,Route 1: Dorado - Loíza,RE-sampling,203.0,28.10,Bacteriological Re-sampling,,2016,12
+2016-12-27,RW-14A,Playa Moja Casabe,17.9858100,-67.2145900,Route 4: Cabo Rojo,Routine,122.0,26.50,8.01,,2016,12
+2016-12-28,RW-18,Balneario Manuel “Nolo” Morales or Sardinera,18.4746944,-66.2808917,Route 1: Dorado - Loíza,Routine,345.0,25.40,8.47,,2016,12
+2016-12-28,RW-29,Vacía Talega,18.4478583,-65.9062306,Route 1: Dorado - Loíza,Routine,109.0,27.40,8.22,,2016,12
+2016-12-28,RW-7,Balneario Punta Guilarte,17.9620417,-66.0400000,Route 2: Arroyo - Luquillo,Routine,146.0,25.90,8.01,,2016,12
+2016-12-28,RW-30,Playa Guayanés,18.0626944,-65.8191944,Route 2: Arroyo - Luquillo,Routine,122.0,25.40,8.05,,2016,12
+2016-12-28,RW-4,Balneario Punta Santiago,18.1584139,-65.7551861,Route 2: Arroyo - Luquillo,Routine,226.0,25.90,8.09,,2016,12
+2016-12-28,RW-31,Tropical Beach,18.1869278,-65.7259667,Route 2: Arroyo - Luquillo,Routine,1780.0,26.40,8.08/8.08,,2016,12
+2016-12-28,RW-23,Balneario de Puerto Nuevo,18.4913667,-66.3990444,Route: 6: Arecibo – Vega Alta ,Routine,175.0,27.40,7.93,,2016,12
